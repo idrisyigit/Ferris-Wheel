@@ -1,4 +1,4 @@
 # Ferris-Wheel
 ## Learn CSS Animation by Building a Ferris Wheel
-![](ss.mp4)
-* [Live Site URL]()
+![](ss.gif)
+* [Live Site URL](https://idrisyigit.github.io/Ferris-Wheel/)
