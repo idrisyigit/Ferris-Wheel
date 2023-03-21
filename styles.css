@@ -11,6 +11,9 @@
     animation-duration: 10s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
+    display: block;
+    margin-left: 32%;
+    
     
   }
   
